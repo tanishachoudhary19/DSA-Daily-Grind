@@ -5,3 +5,4 @@ This repository is a daily log of my Data Structures and Algorithms prep based o
 ## 🎯 Goal: Crack MANG/FAANG SDE role in < 6 months
 ## ✅ Problems Solved
 - [x] Two Sum
+- [x] Contains Duplicate
