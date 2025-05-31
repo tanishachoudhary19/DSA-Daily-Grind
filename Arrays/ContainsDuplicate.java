@@ -1,4 +1,4 @@
-// Problem: Two Sum
+// Problem: ContainsDuplicate
 //Link : https://leetcode.com/problems/contains-duplicate/description/
 // Time: O(n), Space: O(n)
 // Status: Solved ✅ | Date: 2025-05-31
