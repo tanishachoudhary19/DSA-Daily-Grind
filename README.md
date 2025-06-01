@@ -6,3 +6,5 @@ This repository is a daily log of my Data Structures and Algorithms prep based o
 ## ✅ Problems Solved
 - [x] Two Sum
 - [x] Contains Duplicate
+- [x] Group Anagrams
+- [ ] 
