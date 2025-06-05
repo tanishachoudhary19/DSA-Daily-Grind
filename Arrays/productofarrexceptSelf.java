@@ -3,8 +3,8 @@
 //SC:O(N)
 // Status: Solved ✅ | Date: 2025-06-01
 
-class productofarrexeptSelf{
-    public int[] productExceptSelf(int[] nums) {
+class productofarrexceptSelf{
+    public int[] productExcept(int[] nums) {
         int n = nums.length;
         int[] res = new int[n];
         int[] prefix = new int[n];
