@@ -1,3 +1,7 @@
+//Link : https://leetcode.com/problems/sort-even-and-odd-indices-independently/
+//TC : O(n log n)
+//SC: O(N);
+// Status: Solved ✅ | Date: 2025-06-23
 
 import java.util.Arrays;
 
