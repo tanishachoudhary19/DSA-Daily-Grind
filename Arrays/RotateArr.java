@@ -4,7 +4,7 @@
 // Status: Solved ✅ | Date: 2025-07-02
 
 class RotateArr{
-    public void rotate(int []nums, int startIndex, int endIndex){
+    public void reverse(int []nums, int startIndex, int endIndex){
         int left = startIndex;
         int right = endIndex;
         while(left < right){
