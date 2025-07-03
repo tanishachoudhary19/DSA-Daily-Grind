@@ -1,3 +1,8 @@
+//link:https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+//tc: O(log n)
+//sc: O(1)
+// Status: Solved ✅ | Date: 2025-07-03
+
 class findfirstandlastpos{
     public int binarysearch(int [] nums, int target, boolean firstindex){
         int left = 0;
