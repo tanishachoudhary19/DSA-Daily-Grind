@@ -4,7 +4,7 @@
 // Status: Solved ✅ | Date: 2025-07-04
 
 class MissingNum{
-    public int missingNumber(int[] nums) {
+    public int missingNumbersum(int[] nums) {
         int sum = 0;
         int n = nums.length;
         for(int i=0; i<n; i++){
