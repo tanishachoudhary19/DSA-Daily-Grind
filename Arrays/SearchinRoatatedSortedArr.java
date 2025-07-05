@@ -1,6 +1,6 @@
 //link: https://leetcode.com/problems/search-in-rotated-sorted-array/
 //Tc : O(log N)
-// Sc : O(N)
+// Sc : O(1)
 // Status: Solved ✅ | Date: 2025-07-05
 
 class SearchinRoatatedSortedArr{
