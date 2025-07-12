@@ -1,5 +1,6 @@
 //tc: O(LOG N)
 //sc : O(LOG N)
+// Status: Solved ✅ | Date: 2025-07-12
 
 import java.util.*;
 class MERGESort{
