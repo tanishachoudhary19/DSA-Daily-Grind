@@ -1,3 +1,8 @@
+//link : https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+//TC :O(n * log(max bloom day))
+//SC : O(1)
+// Status: Solved ✅ | Date: 2025-07-13
+
 class minDaytomakeBouquets{
     public int minDays(int[] bloomDay, int m, int k){
         int n = bloomDay.length;
