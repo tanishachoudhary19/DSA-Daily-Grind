@@ -14,18 +14,18 @@ class minDaytomakeBouquets{
     }
     private boolean isPossible(int[]bloomDay, int m, int k, int mid){
         int count = 0;
-        int bonquets = 0;
+        int bouquets = 0;
         for(int bloom : bloomDay){
             if(bloom <= mid){
                 count++;
                 if(count == k){
-                    bonquets++;
+                    bouquets++;
                     count = 0;
                 }
             }else{
                 count = 0;
             }
         }
-        return bonquets >= m;
+        return bouquets >= m;
     }
 }
