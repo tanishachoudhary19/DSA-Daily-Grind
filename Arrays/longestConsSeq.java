@@ -1,4 +1,4 @@
-//Link:https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+//Link:https://leetcode.com/problems/longest-consecutive-sequence/
 //tc:O(n)
 //sc:O(n)
 //Status: Solved ✅ | Date: 2025-07-14
