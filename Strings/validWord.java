@@ -6,7 +6,6 @@
 class word{
       public boolean isValid(String word) {
         if(word.length() < 3) return false;
-        int charcount = 0;
         int vowelscount = 0;
         int consonantcount = 0;
         for(char c : word.toCharArray()){
