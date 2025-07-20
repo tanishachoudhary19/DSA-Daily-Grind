@@ -1,4 +1,4 @@
-//Link:https://leetcode.com/problems/3sum/
+//Link:https://leetcode.com/problems/4sum/
 //tc:O(n2)
 //sc:O(n)
 //Status: Solved ✅ | Date: 2025-07-18
