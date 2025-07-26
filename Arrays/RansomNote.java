@@ -3,6 +3,7 @@
 //sc:O(1)
 //Status: Solved ✅ | Date: 2025-07-25
 
+import java.util.HashMap;
 class RansomNote{
      public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character,Integer> hmap = new HashMap<>();
