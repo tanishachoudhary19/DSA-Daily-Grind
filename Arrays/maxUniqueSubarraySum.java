@@ -3,6 +3,7 @@
 //sc:O(n)
 //Status: Solved ✅ | Date: 2025-07-25
 
+import java.util.HashSet;
 class maxUniqueSubarraySum{
    public int maxSum(int[] nums) {
         HashSet<Integer> hset = new HashSet<>();
