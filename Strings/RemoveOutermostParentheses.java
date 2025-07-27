@@ -1,7 +1,7 @@
 //Link:https://leetcode.com/problems/remove-outermost-parentheses/
 //tc:O(n)
 //sc:O(n)
-//Status: Solved ✅ | Date: 2025-07-26
+//Status: Solved ✅ | Date: 2025-07-27
 class RemoveOutermostParentheses{
     public String removeOuterParentheses(String s) {
         StringBuilder res = new StringBuilder();
