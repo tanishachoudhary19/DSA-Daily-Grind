@@ -1,3 +1,8 @@
+//Link:https://leetcode.com/problems/roman-to-integer/
+//tc:O(n)
+//sc:O(1)
+//Status: Solved ✅ | Date: 2025-07-27
+
 class RomanToInteger{
      public int romanToInt(String s) {
         int num = 0;
