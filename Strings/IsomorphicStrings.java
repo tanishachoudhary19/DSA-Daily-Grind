@@ -3,6 +3,7 @@
 //sc:O(n)
 //Status: Solved ✅ | Date: 2025-07-30
 
+import java.util.HashMap;
 class IsomorphicStrings{
      public boolean isIsomorphic(String s, String t) {
         if(s.length() != t.length()) return false;
