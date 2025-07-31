@@ -3,6 +3,7 @@
 //sc: O(1)
 //Status: Solved ✅ | Date: 2025-07-31
 
+import java.util.Arrays;
 class validAnagram{
     public boolean isAnagram(String s, String t) {
       char[] s1 = s.toCharArray();
