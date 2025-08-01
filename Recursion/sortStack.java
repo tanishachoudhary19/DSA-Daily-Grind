@@ -3,6 +3,7 @@
 //sc: O(n)
 //Status: Solved ✅ | Date: 2025-08-1
 
+import java.util.Stack;
 class sortStack{
       void insert(Stack<Integer> s , int temp){
         if(s.isEmpty() || s.peek() < temp){
