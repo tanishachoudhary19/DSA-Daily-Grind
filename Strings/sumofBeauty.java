@@ -1,6 +1,6 @@
 //Link:https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 //tc:O(n2)
-//sc: O(n)
+//sc: O(1)
 //Status: Solved ✅ | Date: 2025-08-2
 
 import java.util.HashMap;
