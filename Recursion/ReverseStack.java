@@ -5,7 +5,7 @@
 
 import java.util.Stack;
 class ReverseStack{
-    static void insert(Stack<Integer> St, int temp){
+    static void insert(Stack<Integer> st, int temp){
         if(st.isEmpty()){
             st.push(temp);
             return;
