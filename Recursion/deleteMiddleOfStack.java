@@ -3,6 +3,7 @@
 //sc: O(n)
 //Status: Solved ✅ | Date: 2025-08-5
 
+import java.util.Stack;
 class deleteMiddleOfStack{
      private void solve(Stack<Integer> s, int k){
         if(k == 1){
