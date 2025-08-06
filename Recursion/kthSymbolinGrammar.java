@@ -1,3 +1,8 @@
+//Link:https://leetcode.com/problems/k-th-symbol-in-grammar
+//tc:O(n)
+//sc: O(n)
+//Status: Solved ✅ | Date: 2025-08-6
+
 class kthSymbolinGrammar{
         public int kthGrammar(int n, int k) {
         if(n == 1 || k == 1) return 0;
