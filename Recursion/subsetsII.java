@@ -3,6 +3,7 @@
 //sc:O(2^n.n)
 // Status: Solved ✅ | Date: 2025-08-08
 
+import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
 class subsetsII{
