@@ -3,7 +3,7 @@
 //sc:O(2^N.X)
 // Status: Solved ✅ | Date: 2025-08-09
 
-
+import java.util.*;
 class uniqueSubsets{
     private static void helper(int index, int[] arr, ArrayList<Integer> curr ,ArrayList<ArrayList<Integer>> ans,HashSet<ArrayList> hset){
         if(index == arr.length){
