@@ -3,6 +3,7 @@
 //sc:O(n^2)
 // Status: Solved ✅ | Date: 2025-08-11
 
+import java.util.*;
 class ratInMaze{
      private boolean isValid(int x, int y, int n, int[][] maze){
         return x>=0 && x<n && y>=0 && y<n && maze[x][y] == 1;
