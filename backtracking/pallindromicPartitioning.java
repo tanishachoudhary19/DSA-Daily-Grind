@@ -3,6 +3,7 @@
 //sc:O(N.N)
 // Status: Solved ✅ | Date: 2025-08-11
 
+import java.util.*;
 class pallindromicPartitioning{
 private boolean isPallindromic(String s){
         int start = 0;
