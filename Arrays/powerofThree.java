@@ -1,4 +1,5 @@
 //Link:https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13
+//tc: O(1)
 //sc:O(1)
 // Status: Solved ✅ | Date: 2025-08-13
 
