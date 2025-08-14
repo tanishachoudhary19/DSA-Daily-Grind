@@ -1,0 +1,35 @@
+//link:https://leetcode.com/problems/valid-sudoku/
+//TC:O(N^2)
+//SC:O(1)
+// Status: Solved ✅ | Date: 2025-08-12
+
+// class validSudoku{
+//     public boolean isValidSudoku(char[][] board) {
+//         return helper(0,0,board);
+//     }
+//     private boolean helper(int row, int col, char[][] board){
+//         if(row == 9) return true;
+//         if(col == 9)  return helper(row+1,0,board);
+//         if(board[row][col] != '.'){
+//             if(!placed(board[row][col],row,col,board)) return false;
+//             return helper(row,col+1,board);
+//         }
+//         return helper(row,col+1,board);
+//     }
+//     private boolean placed(char num , int row, int col, char[][] board){
+//         for(int i=0; i<9; i++){
+//             if(i != row && board[i][col] == num) return false;
+//         }
+//         for(int j=0; j<9; j++){
+//             if(j != col && board[row][j] == num) return false;
+//         }
+//         int sr = (row/3)*3;
+//         int sc = (col/3)*3;
+//         for(int i=sr; i<sr+3; i++){
+//             for(int j=sc; j<sc+3; j++){
+//                 if(( i != row || j != col ) && board[i][j] == num) return false;
+//             }
+//         }
+//         return true;
+//     }
+// }
