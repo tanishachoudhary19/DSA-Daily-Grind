@@ -1,3 +1,9 @@
+//link:https://leetcode.com/problems/maximum-swap/
+//TC:O(C(9, n)×n)
+//SC:O(n)(recursion)+O(C(9, n))(output)
+// Status: Solved ✅ | Date: 2025-08-13
+
+import java.util.ArrayList;
 class NDigitnum{
     private static void helper(int start, int n,ArrayList<Integer> curr, ArrayList<Integer> res){
         if(n ==0 ){
